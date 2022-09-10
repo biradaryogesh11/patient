@@ -1,0 +1,95 @@
+2022-09-09 03:11:53,683 - patientrecords -INFO - FrameWork Excution started
+2022-09-09 03:11:53,759 - patientrecords -INFO - Test case excution is started
+2022-09-09 03:11:55,231 - patientrecords -INFO - Test case excution is ssuccessful
+2022-09-09 03:11:55,861 - patientrecords -INFO - FrameWork Excution End
+2022-09-09 03:12:06,447 - patientrecords -INFO - FrameWork Excution started
+2022-09-09 03:12:06,450 - patientrecords -INFO - Test case excution is started
+2022-09-09 03:12:08,923 - patientrecords -INFO -  enter patient record page
+2022-09-09 03:12:09,002 - patientrecords -INFO -  enter name search box
+2022-09-09 03:12:16,326 - patientrecords -INFO - enter on patient record page
+2022-09-09 03:12:36,391 - patientrecords -INFO - Test method is failed 
+2022-09-09 03:12:37,195 - patientrecords -INFO - FrameWork Excution End
+2022-09-09 03:12:47,876 - patientrecords -INFO - FrameWork Excution started
+2022-09-09 03:12:47,878 - patientrecords -INFO - Test case excution is started
+2022-09-09 03:12:56,965 - patientrecords -INFO - patient record page is open
+2022-09-09 03:12:57,083 - patientrecords -INFO - id is entered
+2022-09-09 03:13:07,124 - patientrecords -INFO - Patient record is selected
+2022-09-09 03:13:07,221 - patientrecords -INFO - Assert name
+2022-09-09 03:13:07,296 - patientrecords -INFO - Assert height
+2022-09-09 03:13:07,369 - patientrecords -INFO - Assert weight
+2022-09-09 03:13:07,570 - patientrecords -INFO - Assert temprature
+2022-09-09 03:13:07,628 - patientrecords -INFO - Assert pulse
+2022-09-09 03:13:07,629 - patientrecords -INFO - Test case excution is ssuccessful
+2022-09-09 03:13:08,737 - patientrecords -INFO - FrameWork Excution End
+2022-09-09 03:13:20,176 - patientrecords -INFO - FrameWork Excution started
+2022-09-09 03:13:20,178 - patientrecords -INFO - Test case excution is started
+2022-09-09 03:13:27,071 - patientrecords -INFO - Enter into Registation page
+2022-09-09 03:13:29,783 - patientrecords -INFO - Name is ented
+2022-09-09 03:13:32,056 - patientrecords -INFO - Gender is selected
+2022-09-09 03:13:34,762 - patientrecords -INFO - Birthdate is entered
+2022-09-09 03:13:37,159 - patientrecords -INFO - Address is entered
+2022-09-09 03:13:39,514 - patientrecords -INFO - phone number is entered
+2022-09-09 03:13:41,708 - patientrecords -INFO - click on submit button
+2022-09-09 03:13:47,494 - patientrecords -INFO - Test case excution is ssuccessful
+2022-09-09 03:13:48,194 - patientrecords -INFO - FrameWork Excution End
+2022-09-09 19:50:51,359 - patientrecords -INFO - FrameWork Excution started
+2022-09-09 19:50:51,446 - patientrecords -INFO - Test case excution is started
+2022-09-09 19:50:53,529 - patientrecords -INFO - Test case excution is ssuccessful
+2022-09-09 19:50:54,350 - patientrecords -INFO - FrameWork Excution End
+2022-09-09 19:51:08,619 - patientrecords -INFO - FrameWork Excution started
+2022-09-09 19:51:08,621 - patientrecords -INFO - Test case excution is started
+2022-09-09 19:51:12,496 - patientrecords -INFO -  enter patient record page
+2022-09-09 19:51:12,585 - patientrecords -INFO -  enter name search box
+2022-09-09 19:51:33,284 - patientrecords -INFO - enter on patient record page
+2022-09-09 19:51:53,356 - patientrecords -INFO - Test method is failed 
+2022-09-09 19:51:54,261 - patientrecords -INFO - FrameWork Excution End
+2022-09-09 19:52:09,075 - patientrecords -INFO - FrameWork Excution started
+2022-09-09 19:52:09,077 - patientrecords -INFO - Test case excution is started
+2022-09-09 19:52:18,265 - patientrecords -INFO - patient record page is open
+2022-09-09 19:52:18,415 - patientrecords -INFO - id is entered
+2022-09-09 19:52:22,494 - patientrecords -INFO - Patient record is selected
+2022-09-09 19:52:42,540 - patientrecords -INFO - Test method is failed 
+2022-09-09 19:52:43,292 - patientrecords -INFO - FrameWork Excution End
+2022-09-09 19:52:58,595 - patientrecords -INFO - FrameWork Excution started
+2022-09-09 19:52:58,599 - patientrecords -INFO - Test case excution is started
+2022-09-09 19:53:08,459 - patientrecords -INFO - Enter into Registation page
+2022-09-09 19:53:11,193 - patientrecords -INFO - Name is ented
+2022-09-09 19:53:13,471 - patientrecords -INFO - Gender is selected
+2022-09-09 19:53:16,277 - patientrecords -INFO - Birthdate is entered
+2022-09-09 19:53:18,704 - patientrecords -INFO - Address is entered
+2022-09-09 19:53:21,154 - patientrecords -INFO - phone number is entered
+2022-09-09 19:53:23,331 - patientrecords -INFO - click on submit button
+2022-09-09 19:53:33,490 - patientrecords -INFO - Test case excution is ssuccessful
+2022-09-09 19:53:34,250 - patientrecords -INFO - FrameWork Excution End
+2022-09-09 20:21:01,103 - patientrecords -INFO - FrameWork Excution started
+2022-09-09 20:21:01,133 - patientrecords -INFO - Test case excution is started
+2022-09-09 20:21:21,034 - patientrecords -INFO - Test case excution is started
+2022-09-09 20:21:27,771 - patientrecords -INFO - patient record page is open
+2022-09-09 20:21:28,036 - patientrecords -INFO - id is entered
+2022-09-09 20:21:32,169 - patientrecords -INFO - Patient record is selected
+2022-09-09 20:21:38,748 - patientrecords -INFO - FrameWork Excution started
+2022-09-09 20:21:38,751 - patientrecords -INFO - Test case excution is started
+2022-09-09 20:21:43,722 - patientrecords -INFO -  enter patient record page
+2022-09-09 20:21:43,817 - patientrecords -INFO -  enter name search box
+2022-09-09 20:21:52,220 - patientrecords -INFO - Test method is failed 
+2022-09-09 20:22:02,588 - patientrecords -INFO - FrameWork Excution End
+2022-09-09 20:22:03,433 - patientrecords -INFO - enter on patient record page
+2022-09-09 20:22:03,439 - patientrecords -INFO - Test method is failed 
+2022-09-09 20:22:03,455 - patientrecords -INFO - Test method is failed 
+2022-09-09 20:22:20,624 - patientrecords -INFO - FrameWork Excution started
+2022-09-09 20:22:20,627 - patientrecords -INFO - Test case excution is started
+2022-09-09 20:22:42,799 - patientrecords -INFO - Test method is failed 
+2022-09-09 20:22:44,261 - patientrecords -INFO - FrameWork Excution End
+2022-09-09 20:24:59,891 - patientrecords -INFO - FrameWork Excution started
+2022-09-09 20:24:59,924 - patientrecords -INFO - Test case excution is started
+2022-09-09 20:25:19,720 - patientrecords -INFO - Test case excution is started
+2022-09-09 20:25:24,997 - patientrecords -INFO - patient record page is open
+2022-09-09 20:25:25,150 - patientrecords -INFO - id is entered
+2022-09-09 20:25:29,274 - patientrecords -INFO - Patient record is selected
+2022-09-09 20:25:49,328 - patientrecords -INFO - Test method is failed 
+2022-09-09 20:25:51,202 - patientrecords -INFO - FrameWork Excution End
+2022-09-09 20:26:12,252 - patientrecords -INFO - FrameWork Excution started
+2022-09-09 20:26:12,256 - patientrecords -INFO - Test case excution is started
+2022-09-09 20:26:12,308 - patientrecords -INFO - Test case excution is started
+2022-09-09 20:26:32,379 - patientrecords -INFO - Test method is failed 
+2022-09-09 20:26:37,833 - patientrecords -INFO - FrameWork Excution End

@@ -1,0 +1,95 @@
+2022-09-09 03:11:53,683 [TestNG-tests-1] INFO patientrecords - FrameWork Excution started
+2022-09-09 03:11:53,759 [TestNG-tests-1] INFO patientrecords - Test case excution is started
+2022-09-09 03:11:55,231 [TestNG-tests-1] INFO patientrecords - Test case excution is ssuccessful
+2022-09-09 03:11:55,861 [TestNG-tests-1] INFO patientrecords - FrameWork Excution End
+2022-09-09 03:12:06,447 [TestNG-tests-1] INFO patientrecords - FrameWork Excution started
+2022-09-09 03:12:06,450 [TestNG-tests-1] INFO patientrecords - Test case excution is started
+2022-09-09 03:12:08,923 [TestNG-tests-1] INFO patientrecords -  enter patient record page
+2022-09-09 03:12:09,002 [TestNG-tests-1] INFO patientrecords -  enter name search box
+2022-09-09 03:12:16,326 [TestNG-tests-1] INFO patientrecords - enter on patient record page
+2022-09-09 03:12:36,391 [TestNG-tests-1] INFO patientrecords - Test method is failed 
+2022-09-09 03:12:37,195 [TestNG-tests-1] INFO patientrecords - FrameWork Excution End
+2022-09-09 03:12:47,876 [TestNG-tests-1] INFO patientrecords - FrameWork Excution started
+2022-09-09 03:12:47,878 [TestNG-tests-1] INFO patientrecords - Test case excution is started
+2022-09-09 03:12:56,965 [TestNG-tests-1] INFO patientrecords - patient record page is open
+2022-09-09 03:12:57,083 [TestNG-tests-1] INFO patientrecords - id is entered
+2022-09-09 03:13:07,124 [TestNG-tests-1] INFO patientrecords - Patient record is selected
+2022-09-09 03:13:07,221 [TestNG-tests-1] INFO patientrecords - Assert name
+2022-09-09 03:13:07,296 [TestNG-tests-1] INFO patientrecords - Assert height
+2022-09-09 03:13:07,369 [TestNG-tests-1] INFO patientrecords - Assert weight
+2022-09-09 03:13:07,570 [TestNG-tests-1] INFO patientrecords - Assert temprature
+2022-09-09 03:13:07,628 [TestNG-tests-1] INFO patientrecords - Assert pulse
+2022-09-09 03:13:07,629 [TestNG-tests-1] INFO patientrecords - Test case excution is ssuccessful
+2022-09-09 03:13:08,737 [TestNG-tests-1] INFO patientrecords - FrameWork Excution End
+2022-09-09 03:13:20,176 [TestNG-tests-1] INFO patientrecords - FrameWork Excution started
+2022-09-09 03:13:20,178 [TestNG-tests-1] INFO patientrecords - Test case excution is started
+2022-09-09 03:13:27,071 [TestNG-tests-1] INFO patientrecords - Enter into Registation page
+2022-09-09 03:13:29,783 [TestNG-tests-1] INFO patientrecords - Name is ented
+2022-09-09 03:13:32,056 [TestNG-tests-1] INFO patientrecords - Gender is selected
+2022-09-09 03:13:34,762 [TestNG-tests-1] INFO patientrecords - Birthdate is entered
+2022-09-09 03:13:37,159 [TestNG-tests-1] INFO patientrecords - Address is entered
+2022-09-09 03:13:39,514 [TestNG-tests-1] INFO patientrecords - phone number is entered
+2022-09-09 03:13:41,708 [TestNG-tests-1] INFO patientrecords - click on submit button
+2022-09-09 03:13:47,494 [TestNG-tests-1] INFO patientrecords - Test case excution is ssuccessful
+2022-09-09 03:13:48,194 [TestNG-tests-1] INFO patientrecords - FrameWork Excution End
+2022-09-09 19:50:51,359 [TestNG-tests-1] INFO patientrecords - FrameWork Excution started
+2022-09-09 19:50:51,446 [TestNG-tests-1] INFO patientrecords - Test case excution is started
+2022-09-09 19:50:53,529 [TestNG-tests-1] INFO patientrecords - Test case excution is ssuccessful
+2022-09-09 19:50:54,350 [TestNG-tests-1] INFO patientrecords - FrameWork Excution End
+2022-09-09 19:51:08,619 [TestNG-tests-1] INFO patientrecords - FrameWork Excution started
+2022-09-09 19:51:08,621 [TestNG-tests-1] INFO patientrecords - Test case excution is started
+2022-09-09 19:51:12,496 [TestNG-tests-1] INFO patientrecords -  enter patient record page
+2022-09-09 19:51:12,585 [TestNG-tests-1] INFO patientrecords -  enter name search box
+2022-09-09 19:51:33,284 [TestNG-tests-1] INFO patientrecords - enter on patient record page
+2022-09-09 19:51:53,356 [TestNG-tests-1] INFO patientrecords - Test method is failed 
+2022-09-09 19:51:54,261 [TestNG-tests-1] INFO patientrecords - FrameWork Excution End
+2022-09-09 19:52:09,075 [TestNG-tests-1] INFO patientrecords - FrameWork Excution started
+2022-09-09 19:52:09,077 [TestNG-tests-1] INFO patientrecords - Test case excution is started
+2022-09-09 19:52:18,265 [TestNG-tests-1] INFO patientrecords - patient record page is open
+2022-09-09 19:52:18,415 [TestNG-tests-1] INFO patientrecords - id is entered
+2022-09-09 19:52:22,494 [TestNG-tests-1] INFO patientrecords - Patient record is selected
+2022-09-09 19:52:42,540 [TestNG-tests-1] INFO patientrecords - Test method is failed 
+2022-09-09 19:52:43,292 [TestNG-tests-1] INFO patientrecords - FrameWork Excution End
+2022-09-09 19:52:58,595 [TestNG-tests-1] INFO patientrecords - FrameWork Excution started
+2022-09-09 19:52:58,599 [TestNG-tests-1] INFO patientrecords - Test case excution is started
+2022-09-09 19:53:08,459 [TestNG-tests-1] INFO patientrecords - Enter into Registation page
+2022-09-09 19:53:11,193 [TestNG-tests-1] INFO patientrecords - Name is ented
+2022-09-09 19:53:13,471 [TestNG-tests-1] INFO patientrecords - Gender is selected
+2022-09-09 19:53:16,277 [TestNG-tests-1] INFO patientrecords - Birthdate is entered
+2022-09-09 19:53:18,704 [TestNG-tests-1] INFO patientrecords - Address is entered
+2022-09-09 19:53:21,154 [TestNG-tests-1] INFO patientrecords - phone number is entered
+2022-09-09 19:53:23,331 [TestNG-tests-1] INFO patientrecords - click on submit button
+2022-09-09 19:53:33,490 [TestNG-tests-1] INFO patientrecords - Test case excution is ssuccessful
+2022-09-09 19:53:34,250 [TestNG-tests-1] INFO patientrecords - FrameWork Excution End
+2022-09-09 20:21:01,103 [TestNG-tests-1] INFO patientrecords - FrameWork Excution started
+2022-09-09 20:21:01,133 [TestNG-tests-1] INFO patientrecords - Test case excution is started
+2022-09-09 20:21:21,034 [TestNG-tests-2] INFO patientrecords - Test case excution is started
+2022-09-09 20:21:27,771 [TestNG-tests-1] INFO patientrecords - patient record page is open
+2022-09-09 20:21:28,036 [TestNG-tests-1] INFO patientrecords - id is entered
+2022-09-09 20:21:32,169 [TestNG-tests-1] INFO patientrecords - Patient record is selected
+2022-09-09 20:21:38,748 [TestNG-tests-2] INFO patientrecords - FrameWork Excution started
+2022-09-09 20:21:38,751 [TestNG-tests-2] INFO patientrecords - Test case excution is started
+2022-09-09 20:21:43,722 [TestNG-tests-2] INFO patientrecords -  enter patient record page
+2022-09-09 20:21:43,817 [TestNG-tests-2] INFO patientrecords -  enter name search box
+2022-09-09 20:21:52,220 [TestNG-tests-1] INFO patientrecords - Test method is failed 
+2022-09-09 20:22:02,588 [TestNG-tests-1] INFO patientrecords - FrameWork Excution End
+2022-09-09 20:22:03,433 [TestNG-tests-2] INFO patientrecords - enter on patient record page
+2022-09-09 20:22:03,439 [TestNG-tests-2] INFO patientrecords - Test method is failed 
+2022-09-09 20:22:03,455 [TestNG-tests-2] INFO patientrecords - Test method is failed 
+2022-09-09 20:22:20,624 [TestNG-tests-1] INFO patientrecords - FrameWork Excution started
+2022-09-09 20:22:20,627 [TestNG-tests-1] INFO patientrecords - Test case excution is started
+2022-09-09 20:22:42,799 [TestNG-tests-1] INFO patientrecords - Test method is failed 
+2022-09-09 20:22:44,261 [TestNG-tests-1] INFO patientrecords - FrameWork Excution End
+2022-09-09 20:24:59,891 [TestNG-test=Test-1] INFO patientrecords - FrameWork Excution started
+2022-09-09 20:24:59,924 [TestNG-test=Test-1] INFO patientrecords - Test case excution is started
+2022-09-09 20:25:19,720 [TestNG-test=Test-2] INFO patientrecords - Test case excution is started
+2022-09-09 20:25:24,997 [TestNG-test=Test-1] INFO patientrecords - patient record page is open
+2022-09-09 20:25:25,150 [TestNG-test=Test-1] INFO patientrecords - id is entered
+2022-09-09 20:25:29,274 [TestNG-test=Test-1] INFO patientrecords - Patient record is selected
+2022-09-09 20:25:49,328 [TestNG-test=Test-1] INFO patientrecords - Test method is failed 
+2022-09-09 20:25:51,202 [TestNG-test=Test-1] INFO patientrecords - FrameWork Excution End
+2022-09-09 20:26:12,252 [TestNG-test=Test2-2] INFO patientrecords - FrameWork Excution started
+2022-09-09 20:26:12,256 [TestNG-test=Test2-2] INFO patientrecords - Test case excution is started
+2022-09-09 20:26:12,308 [TestNG-test=Test2-1] INFO patientrecords - Test case excution is started
+2022-09-09 20:26:32,379 [TestNG-test=Test2-2] INFO patientrecords - Test method is failed 
+2022-09-09 20:26:37,833 [TestNG-test=Test2-2] INFO patientrecords - FrameWork Excution End
