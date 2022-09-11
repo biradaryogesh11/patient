@@ -34,12 +34,13 @@ public class TestBase
 	{
 		 logger=Logger.getLogger("patientrecords");
 		PropertyConfigurator.configure("log4j.properties");
-		logger.info("FrameWork Excution started");
+		logger.info("==============FrameWork Excution started=================");
 	}
 	@AfterMethod
 	public void stop()
 	{
-		logger.info("FrameWork Excution End");
+		logger.info("==================FrameWork Excution End================");
+		
 	}
 
 	@Parameters("browser")
