@@ -6,39 +6,8 @@
     <listener class-name="com.qa.utilPackage.Listner"/>
     <listener class-name="com.qa.utilPackage.ExtentReporterNG"/>
   </listeners>
-  <test thread-count="5" parallel="methods" name="Test(failed)">
+  <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="com.qa.TestLayer.PatientRegestrationTest">
-        <methods>
-          <include name="verifyPatientRegestration"/>
-          <include name="start"/>
-          <include name="closeTab"/>
-          <include name="setProperty"/>
-          <include name="stop"/>
-        </methods>
-      </class> <!-- com.qa.TestLayer.PatientRegestrationTest -->
-      <class name="com.qa.TestLayer.PatientRecordTest">
-        <methods>
-          <include name="verifyPatientRecordPage"/>
-          <include name="start"/>
-          <include name="closeTab"/>
-          <include name="setProperty"/>
-          <include name="stop"/>
-        </methods>
-      </class> <!-- com.qa.TestLayer.PatientRecordTest -->
-    </classes>
-  </test> <!-- Test(failed) -->
-  <test thread-count="5" parallel="methods" name="Test2(failed)">
-    <classes>
-      <class name="com.qa.TestLayer.LogoutTest">
-        <methods>
-          <include name="start"/>
-          <include name="verifylogout"/>
-          <include name="closeTab"/>
-          <include name="setProperty"/>
-          <include name="stop"/>
-        </methods>
-      </class> <!-- com.qa.TestLayer.LogoutTest -->
       <class name="com.qa.TestLayer.DeletePatientRecordTest">
         <methods>
           <include name="start"/>
@@ -49,5 +18,5 @@
         </methods>
       </class> <!-- com.qa.TestLayer.DeletePatientRecordTest -->
     </classes>
-  </test> <!-- Test2(failed) -->
+  </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

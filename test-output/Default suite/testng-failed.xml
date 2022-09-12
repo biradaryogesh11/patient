@@ -3,15 +3,15 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.qa.TestLayer.PatientRecordTest">
+      <class name="com.qa.TestLayer.AddAttachmentOfPatient">
         <methods>
-          <include name="verifyPatientRecordPage"/>
+          <include name="VerifyAddAttachment"/>
           <include name="start"/>
           <include name="closeTab"/>
           <include name="setProperty"/>
           <include name="stop"/>
         </methods>
-      </class> <!-- com.qa.TestLayer.PatientRecordTest -->
+      </class> <!-- com.qa.TestLayer.AddAttachmentOfPatient -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

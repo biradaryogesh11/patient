@@ -93,3 +93,225 @@
 2022-09-09 20:26:12,308 [TestNG-test=Test2-1] INFO patientrecords - Test case excution is started
 2022-09-09 20:26:32,379 [TestNG-test=Test2-2] INFO patientrecords - Test method is failed 
 2022-09-09 20:26:37,833 [TestNG-test=Test2-2] INFO patientrecords - FrameWork Excution End
+2022-09-12 01:25:03,359 [main] INFO patientrecords - ==============FrameWork Excution started=================
+2022-09-12 01:25:03,435 [main] INFO patientrecords - Test case excution is started
+2022-09-12 01:25:06,752 [main] INFO patientrecords -  enter patient record page
+2022-09-12 01:25:06,833 [main] INFO patientrecords -  enter name search box
+2022-09-12 01:25:15,412 [main] INFO patientrecords - enter on patient record page
+2022-09-12 01:25:16,349 [main] INFO patientrecords - delete tab is pop-up
+2022-09-12 01:25:16,701 [main] INFO patientrecords - reason is entered
+2022-09-12 01:25:16,799 [main] INFO patientrecords - clicked on button
+2022-09-12 01:25:40,284 [main] INFO patientrecords - Test method is failed 
+2022-09-12 01:25:41,520 [main] INFO patientrecords - ==================FrameWork Excution End================
+2022-09-12 01:28:15,317 [main] INFO patientrecords - ==============FrameWork Excution started=================
+2022-09-12 01:28:15,344 [main] INFO patientrecords - Test case excution is started
+2022-09-12 01:28:17,794 [main] INFO patientrecords -  enter patient record page
+2022-09-12 01:28:17,872 [main] INFO patientrecords -  enter name search box
+2022-09-12 01:28:25,028 [main] INFO patientrecords - enter on patient record page
+2022-09-12 01:28:25,323 [main] INFO patientrecords - delete tab is pop-up
+2022-09-12 01:28:25,635 [main] INFO patientrecords - reason is entered
+2022-09-12 01:28:25,908 [main] INFO patientrecords - clicked on button
+2022-09-12 01:28:49,197 [main] INFO patientrecords - Test method is failed 
+2022-09-12 01:28:49,907 [main] INFO patientrecords - ==================FrameWork Excution End================
+2022-09-12 01:39:58,141 [main] INFO patientrecords - ==============FrameWork Excution started=================
+2022-09-12 01:39:58,165 [main] INFO patientrecords - Test case excution is started
+2022-09-12 01:40:01,219 [main] INFO patientrecords -  enter patient record page
+2022-09-12 01:40:01,305 [main] INFO patientrecords -  enter name search box
+2022-09-12 01:40:08,479 [main] INFO patientrecords - enter on patient record page
+2022-09-12 01:40:08,723 [main] INFO patientrecords - delete tab is pop-up
+2022-09-12 01:40:09,141 [main] INFO patientrecords - reason is entered
+2022-09-12 01:40:09,344 [main] INFO patientrecords - clicked on button
+2022-09-12 01:40:32,571 [main] INFO patientrecords - Test method is failed 
+2022-09-12 01:40:33,482 [main] INFO patientrecords - ==================FrameWork Excution End================
+2022-09-12 01:45:57,102 [main] INFO patientrecords - ==============FrameWork Excution started=================
+2022-09-12 01:45:57,123 [main] INFO patientrecords - Test case excution is started
+2022-09-12 01:46:01,245 [main] INFO patientrecords -  enter patient record page
+2022-09-12 01:46:01,338 [main] INFO patientrecords -  enter name search box
+2022-09-12 01:46:11,635 [main] INFO patientrecords - enter on patient record page
+2022-09-12 01:46:11,805 [main] INFO patientrecords - delete tab is pop-up
+2022-09-12 01:46:12,455 [main] INFO patientrecords - reason is entered
+2022-09-12 01:46:12,573 [main] INFO patientrecords - clicked on button
+2022-09-12 01:46:35,876 [main] INFO patientrecords - Test method is failed 
+2022-09-12 01:46:36,560 [main] INFO patientrecords - ==================FrameWork Excution End================
+2022-09-12 12:48:17,341 [main] INFO patientrecords - ==============FrameWork Excution started=================
+2022-09-12 12:48:17,404 [main] INFO patientrecords - Test case excution is started
+2022-09-12 12:48:17,405 [main] INFO patientrecords - find patient record page
+2022-09-12 12:48:22,277 [main] INFO patientrecords - enter the patient name
+2022-09-12 12:48:32,258 [main] INFO patientrecords - patient record page
+2022-09-12 12:48:32,260 [main] INFO patientrecords - attachment is selcted
+2022-09-12 12:48:52,504 [main] INFO patientrecords - Test method is failed 
+2022-09-12 12:48:53,447 [main] INFO patientrecords - ==================FrameWork Excution End================
+2022-09-12 12:53:44,306 [main] INFO patientrecords - ==============FrameWork Excution started=================
+2022-09-12 12:53:44,324 [main] INFO patientrecords - Test case excution is started
+2022-09-12 12:53:44,325 [main] INFO patientrecords - find patient record page
+2022-09-12 12:53:49,464 [main] INFO patientrecords - enter the patient name
+2022-09-12 12:54:03,419 [main] INFO patientrecords - patient record page
+2022-09-12 12:54:03,420 [main] INFO patientrecords - attachment is selcted
+2022-09-12 12:54:23,505 [main] INFO patientrecords - Test method is failed 
+2022-09-12 12:54:24,237 [main] INFO patientrecords - ==================FrameWork Excution End================
+2022-09-12 12:57:20,513 [main] INFO patientrecords - ==============FrameWork Excution started=================
+2022-09-12 12:57:20,539 [main] INFO patientrecords - Test case excution is started
+2022-09-12 12:57:20,541 [main] INFO patientrecords - find patient record page
+2022-09-12 12:57:24,702 [main] INFO patientrecords - enter the patient name
+2022-09-12 12:57:38,064 [main] INFO patientrecords - patient record page
+2022-09-12 12:57:38,065 [main] INFO patientrecords - attachment is selcted
+2022-09-12 12:57:42,374 [main] INFO patientrecords - attachment page is opened
+2022-09-12 12:57:42,803 [main] INFO patientrecords - attachment location page is open
+2022-09-12 12:57:55,014 [main] INFO patientrecords - file is uploaded
+2022-09-12 12:58:15,303 [main] INFO patientrecords - Test method is failed 
+2022-09-12 12:58:16,120 [main] INFO patientrecords - ==================FrameWork Excution End================
+2022-09-12 13:00:05,785 [main] INFO patientrecords - ==============FrameWork Excution started=================
+2022-09-12 13:00:05,804 [main] INFO patientrecords - Test case excution is started
+2022-09-12 13:00:05,806 [main] INFO patientrecords - find patient record page
+2022-09-12 13:00:09,751 [main] INFO patientrecords - enter the patient name
+2022-09-12 13:00:16,582 [main] INFO patientrecords - patient record page
+2022-09-12 13:00:16,584 [main] INFO patientrecords - attachment is selcted
+2022-09-12 13:00:36,700 [main] INFO patientrecords - Test method is failed 
+2022-09-12 13:00:37,367 [main] INFO patientrecords - ==================FrameWork Excution End================
+2022-09-12 13:01:06,593 [main] INFO patientrecords - ==============FrameWork Excution started=================
+2022-09-12 13:01:06,613 [main] INFO patientrecords - Test case excution is started
+2022-09-12 13:01:06,615 [main] INFO patientrecords - find patient record page
+2022-09-12 13:01:10,943 [main] INFO patientrecords - enter the patient name
+2022-09-12 13:01:28,450 [main] INFO patientrecords - patient record page
+2022-09-12 13:01:28,453 [main] INFO patientrecords - attachment is selcted
+2022-09-12 13:01:48,526 [main] INFO patientrecords - Test method is failed 
+2022-09-12 13:01:49,221 [main] INFO patientrecords - ==================FrameWork Excution End================
+2022-09-12 13:19:42,144 [main] INFO patientrecords - ==============FrameWork Excution started=================
+2022-09-12 13:19:42,248 [main] INFO patientrecords - Test case excution is started
+2022-09-12 13:19:42,249 [main] INFO patientrecords - find patient record page
+2022-09-12 13:19:45,595 [main] INFO patientrecords - enter the patient name
+2022-09-12 13:19:58,844 [main] INFO patientrecords - patient record page
+2022-09-12 13:19:58,846 [main] INFO patientrecords - attachment is selcted
+2022-09-12 13:20:18,984 [main] INFO patientrecords - Test method is failed 
+2022-09-12 13:20:19,786 [main] INFO patientrecords - ==================FrameWork Excution End================
+2022-09-12 13:20:51,813 [main] INFO patientrecords - ==============FrameWork Excution started=================
+2022-09-12 13:20:51,833 [main] INFO patientrecords - Test case excution is started
+2022-09-12 13:20:51,834 [main] INFO patientrecords - find patient record page
+2022-09-12 13:20:54,896 [main] INFO patientrecords - enter the patient name
+2022-09-12 13:21:03,385 [main] INFO patientrecords - patient record page
+2022-09-12 13:21:03,387 [main] INFO patientrecords - attachment is selcted
+2022-09-12 13:21:23,464 [main] INFO patientrecords - Test method is failed 
+2022-09-12 13:21:24,037 [main] INFO patientrecords - ==================FrameWork Excution End================
+2022-09-12 14:03:20,315 [main] INFO patientrecords - ==============FrameWork Excution started=================
+2022-09-12 14:03:20,332 [main] INFO patientrecords - Test case excution is started
+2022-09-12 14:03:20,333 [main] INFO patientrecords - find patient record page
+2022-09-12 14:03:24,210 [main] INFO patientrecords - enter the patient name
+2022-09-12 14:03:36,931 [main] INFO patientrecords - patient record page
+2022-09-12 14:03:36,933 [main] INFO patientrecords - attachment is selcted
+2022-09-12 14:03:40,294 [main] INFO patientrecords - attachment page is opened
+2022-09-12 14:03:40,793 [main] INFO patientrecords - attachment location page is open
+2022-09-12 14:03:52,332 [main] INFO patientrecords - file is uploaded
+2022-09-12 14:04:12,656 [main] INFO patientrecords - Test method is failed 
+2022-09-12 14:04:13,302 [main] INFO patientrecords - ==================FrameWork Excution End================
+2022-09-12 14:13:03,679 [main] INFO patientrecords - ==============FrameWork Excution started=================
+2022-09-12 14:13:03,698 [main] INFO patientrecords - Test case excution is started
+2022-09-12 14:13:03,699 [main] INFO patientrecords - find patient record page
+2022-09-12 14:13:07,193 [main] INFO patientrecords - enter the patient name
+2022-09-12 14:13:19,796 [main] INFO patientrecords - patient record page
+2022-09-12 14:13:19,798 [main] INFO patientrecords - attachment is selcted
+2022-09-12 14:13:39,892 [main] INFO patientrecords - Test method is failed 
+2022-09-12 14:13:40,624 [main] INFO patientrecords - ==================FrameWork Excution End================
+2022-09-12 14:16:25,038 [main] INFO patientrecords - ==============FrameWork Excution started=================
+2022-09-12 14:16:25,058 [main] INFO patientrecords - Test case excution is started
+2022-09-12 14:16:25,059 [main] INFO patientrecords - find patient record page
+2022-09-12 14:16:31,082 [main] INFO patientrecords - enter the patient name
+2022-09-12 14:16:51,284 [main] INFO patientrecords - Test method is failed 
+2022-09-12 14:17:51,366 [main] INFO patientrecords - Test method is failed 
+2022-09-12 14:18:43,599 [main] INFO patientrecords - ==============FrameWork Excution started=================
+2022-09-12 14:18:43,622 [main] INFO patientrecords - Test case excution is started
+2022-09-12 14:18:43,623 [main] INFO patientrecords - find patient record page
+2022-09-12 14:18:48,701 [main] INFO patientrecords - enter the patient name
+2022-09-12 14:18:59,371 [main] INFO patientrecords - patient record page
+2022-09-12 14:18:59,375 [main] INFO patientrecords - attachment is selcted
+2022-09-12 14:19:19,433 [main] INFO patientrecords - Test method is failed 
+2022-09-12 14:19:19,986 [main] INFO patientrecords - ==================FrameWork Excution End================
+2022-09-12 14:20:08,794 [main] INFO patientrecords - ==============FrameWork Excution started=================
+2022-09-12 14:20:08,816 [main] INFO patientrecords - Test case excution is started
+2022-09-12 14:20:08,818 [main] INFO patientrecords - find patient record page
+2022-09-12 14:20:13,791 [main] INFO patientrecords - enter the patient name
+2022-09-12 14:20:21,814 [main] INFO patientrecords - patient record page
+2022-09-12 14:20:21,815 [main] INFO patientrecords - attachment is selcted
+2022-09-12 14:20:38,764 [main] INFO patientrecords - Test method is failed 
+2022-09-12 14:20:38,862 [main] INFO patientrecords - Test method is failed 
+2022-09-12 14:21:14,370 [main] INFO patientrecords - ==============FrameWork Excution started=================
+2022-09-12 14:21:14,390 [main] INFO patientrecords - Test case excution is started
+2022-09-12 14:21:14,392 [main] INFO patientrecords - find patient record page
+2022-09-12 14:21:18,116 [main] INFO patientrecords - enter the patient name
+2022-09-12 14:21:25,924 [main] INFO patientrecords - patient record page
+2022-09-12 14:21:25,925 [main] INFO patientrecords - attachment is selcted
+2022-09-12 14:21:46,037 [main] INFO patientrecords - Test method is failed 
+2022-09-12 14:21:46,977 [main] INFO patientrecords - ==================FrameWork Excution End================
+2022-09-12 14:22:57,769 [main] INFO patientrecords - ==============FrameWork Excution started=================
+2022-09-12 14:22:57,792 [main] INFO patientrecords - Test case excution is started
+2022-09-12 14:22:57,793 [main] INFO patientrecords - find patient record page
+2022-09-12 14:23:01,694 [main] INFO patientrecords - enter the patient name
+2022-09-12 14:23:09,519 [main] INFO patientrecords - patient record page
+2022-09-12 14:23:09,521 [main] INFO patientrecords - attachment is selcted
+2022-09-12 14:23:29,586 [main] INFO patientrecords - Test method is failed 
+2022-09-12 14:23:30,264 [main] INFO patientrecords - ==================FrameWork Excution End================
+2022-09-12 14:25:08,902 [main] INFO patientrecords - ==============FrameWork Excution started=================
+2022-09-12 14:25:08,922 [main] INFO patientrecords - Test case excution is started
+2022-09-12 14:25:08,923 [main] INFO patientrecords - find patient record page
+2022-09-12 14:25:13,124 [main] INFO patientrecords - enter the patient name
+2022-09-12 14:25:27,976 [main] INFO patientrecords - patient record page
+2022-09-12 14:25:27,978 [main] INFO patientrecords - attachment is selcted
+2022-09-12 14:25:48,045 [main] INFO patientrecords - Test method is failed 
+2022-09-12 14:25:48,668 [main] INFO patientrecords - ==================FrameWork Excution End================
+2022-09-12 14:28:20,647 [main] INFO patientrecords - ==============FrameWork Excution started=================
+2022-09-12 14:28:20,668 [main] INFO patientrecords - Test case excution is started
+2022-09-12 14:28:20,669 [main] INFO patientrecords - find patient record page
+2022-09-12 14:28:25,693 [main] INFO patientrecords - enter the patient name
+2022-09-12 14:28:41,116 [main] INFO patientrecords - patient record page
+2022-09-12 14:28:41,118 [main] INFO patientrecords - attachment is selcted
+2022-09-12 14:28:44,522 [main] INFO patientrecords - attachment page is opened
+2022-09-12 14:28:44,794 [main] INFO patientrecords - attachment location page is open
+2022-09-12 14:28:54,970 [main] INFO patientrecords - file is uploaded
+2022-09-12 14:29:15,295 [main] INFO patientrecords - Test method is failed 
+2022-09-12 14:29:15,815 [main] INFO patientrecords - ==================FrameWork Excution End================
+2022-09-12 14:32:27,791 [main] INFO patientrecords - ==============FrameWork Excution started=================
+2022-09-12 14:32:27,812 [main] INFO patientrecords - Test case excution is started
+2022-09-12 14:32:27,814 [main] INFO patientrecords - find patient record page
+2022-09-12 14:32:32,953 [main] INFO patientrecords - enter the patient name
+2022-09-12 14:32:49,280 [main] INFO patientrecords - patient record page
+2022-09-12 14:32:49,281 [main] INFO patientrecords - attachment is selcted
+2022-09-12 14:33:09,315 [main] INFO patientrecords - Test method is failed 
+2022-09-12 14:33:10,064 [main] INFO patientrecords - ==================FrameWork Excution End================
+2022-09-12 14:34:55,579 [main] INFO patientrecords - ==============FrameWork Excution started=================
+2022-09-12 14:34:55,600 [main] INFO patientrecords - Test case excution is started
+2022-09-12 14:34:55,602 [main] INFO patientrecords - find patient record page
+2022-09-12 14:34:59,463 [main] INFO patientrecords - enter the patient name
+2022-09-12 14:35:16,460 [main] INFO patientrecords - patient record page
+2022-09-12 14:35:16,461 [main] INFO patientrecords - attachment is selcted
+2022-09-12 14:35:36,524 [main] INFO patientrecords - Test method is failed 
+2022-09-12 14:35:37,135 [main] INFO patientrecords - ==================FrameWork Excution End================
+2022-09-12 14:36:22,027 [main] INFO patientrecords - ==============FrameWork Excution started=================
+2022-09-12 14:36:22,047 [main] INFO patientrecords - Test case excution is started
+2022-09-12 14:36:22,048 [main] INFO patientrecords - find patient record page
+2022-09-12 14:36:25,493 [main] INFO patientrecords - enter the patient name
+2022-09-12 14:36:37,658 [main] INFO patientrecords - patient record page
+2022-09-12 14:36:37,660 [main] INFO patientrecords - attachment is selcted
+2022-09-12 14:36:41,286 [main] INFO patientrecords - attachment page is opened
+2022-09-12 14:36:41,577 [main] INFO patientrecords - attachment location page is open
+2022-09-12 14:36:51,776 [main] INFO patientrecords - file is uploaded
+2022-09-12 14:36:53,659 [main] INFO patientrecords - Test case excution is ssuccessful
+2022-09-12 14:36:54,233 [main] INFO patientrecords - ==================FrameWork Excution End================
+2022-09-12 14:41:56,327 [main] INFO patientrecords - ==============FrameWork Excution started=================
+2022-09-12 14:41:56,347 [main] INFO patientrecords - Test case excution is started
+2022-09-12 14:42:00,805 [main] INFO patientrecords -  enter patient record page
+2022-09-12 14:42:00,892 [main] INFO patientrecords -  enter name search box
+2022-09-12 14:42:15,943 [main] INFO patientrecords - enter on patient record page
+2022-09-12 14:42:16,147 [main] INFO patientrecords - delete tab is pop-up
+2022-09-12 14:42:16,508 [main] INFO patientrecords - reason is entered
+2022-09-12 14:42:16,640 [main] INFO patientrecords - clicked on button
+2022-09-12 14:42:40,108 [main] INFO patientrecords - Test method is failed 
+2022-09-12 14:42:40,728 [main] INFO patientrecords - ==================FrameWork Excution End================
+2022-09-12 15:04:05,855 [main] INFO patientrecords - ==============FrameWork Excution started=================
+2022-09-12 15:04:05,874 [main] INFO patientrecords - Test case excution is started
+2022-09-12 15:04:09,367 [main] INFO patientrecords -  enter patient record page
+2022-09-12 15:04:09,458 [main] INFO patientrecords -  enter name search box
+2022-09-12 15:04:23,491 [main] INFO patientrecords - enter on patient record page
+2022-09-12 15:04:23,717 [main] INFO patientrecords - delete tab is pop-up
+2022-09-12 15:04:23,995 [main] INFO patientrecords - reason is entered
+2022-09-12 15:04:24,220 [main] INFO patientrecords - clicked on button
+2022-09-12 15:04:47,313 [main] INFO patientrecords - Test method is failed 
+2022-09-12 15:04:48,553 [main] INFO patientrecords - ==================FrameWork Excution End================

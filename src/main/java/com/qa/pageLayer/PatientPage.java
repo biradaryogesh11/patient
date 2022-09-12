@@ -13,7 +13,7 @@ public class PatientPage extends TestBase
 		PageFactory.initElements(driver, this);
 	}
 	
-	@FindBy(xpath="(//div[contains(@class,'col-11 col-lg-10')])[17]")
+	@FindBy(xpath="//div[contains(text(),'Delete Patient')]")
 	private WebElement delete_patient;
 	public void clickOnDeletePatientRecord()
 	{
@@ -64,6 +64,15 @@ public class PatientPage extends TestBase
 	{
 		String exp = pulse.getText();
 		return exp;
+	}
+	
+	// Add Attchment
+	
+	@FindBy(xpath="(//div[contains(text(),'Attachment')])[2]")
+	private WebElement add_attchment;
+	public void clickOnAttachment()
+	{
+		 add_attchment.click();
 	}
 	
 

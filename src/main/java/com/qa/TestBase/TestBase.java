@@ -83,6 +83,7 @@ public class TestBase
 		 home= new HomePage();
 		 record= new FindPatientRecordPage();
 		 patient=new PatientPage();
+		 
 		
 	}
 	@AfterMethod

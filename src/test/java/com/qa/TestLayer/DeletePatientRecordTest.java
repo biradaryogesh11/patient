@@ -25,10 +25,11 @@ public class DeletePatientRecordTest extends TestBase
 	   logger.info("reason is entered");
 	   patient.clickOnConfirmButton();
 	   logger.info("clicked on button");
-//	   DeletePatientPage delete= new DeletePatientPage();
-//	   String expected = delete.getExpectedResult();
-//	   Thread.sleep(2000);
-//	   String actual = driver.findElement(By.xpath("//h1[contains(text(),'This patient has been deleted')]")).getText();
-//	   Assert.assertEquals(actual, expected);
+	   DeletePatientPage delete= new DeletePatientPage();
+	   String expected = delete.getExpectedResult();
+	   Thread.sleep(2000);
+	   String actual = driver.findElement(By.xpath("//p[text()='Patient has been deleted successfully']")).getText();
+	   Thread.sleep(2000);
+	   Assert.assertEquals(actual, expected);
 	}
 }
