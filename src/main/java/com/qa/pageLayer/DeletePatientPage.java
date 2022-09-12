@@ -13,7 +13,7 @@ public class DeletePatientPage extends TestBase
 		PageFactory.initElements(driver, this);
 	}
 	
-	@FindBy(xpath="//h1[contains(text(),'This patient has been deleted')]")
+	@FindBy(xpath="//p[text()='Patient has been deleted successfully']")
 	private WebElement expected;
 	public String getExpectedResult()
 	{
